@@ -8,22 +8,71 @@
   <img src="https://komarev.com/ghpvc/?username=anitcodes&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-## 🚀 About Me
-```javascript
-const anit = {
-    pronouns: "he/him",
-    about: "Full Stack Developer passionate about creating impactful web solutions",
-    experience: {
-        frontend: ["React", "Next.js", "TailwindCSS", "Material-UI"],
-        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-        cloud: ["AWS", "Vercel", "Netlify"]
-    },
-    currentlyWorking: "On innovative web applications that solve real-world problems",
-    learning: ["System Design", "DevOps", "Cloud Architecture"],
-    askMeAbout: ["Web Dev", "Tech", "UI/UX", "Coffee ☕"],
-    funFact: "I debug with console.log and refuse to admit it! 🤫"
-};
+## <div align="center">🚀 About Me</div>
+
+<div align="center">
+  
+  🎓 I'm a **Full Stack Developer** passionate about building digital experiences
+  
+  🌱 Currently exploring the realms of **Cloud Architecture** and **System Design**
+  
+  💡 I love contributing to **Open Source Projects**
+  
+  ⚡ Fun fact: I can debug code faster than I can find my keys 🔑
+</div>
+
+### <div align="center">⚒️ My Development Arsenal</div>
+
+<div align="center">
+  
+| 🎯 Frontend Mastery | 💻 Backend Expertise | 🛠 Development Tools |
+|:------------------:|:-------------------:|:-------------------:|
+| React.js | Node.js | Git & GitHub |
+| Next.js | Express.js | Docker |
+| TypeScript | MongoDB | VS Code |
+| TailwindCSS | PostgreSQL | Postman |
+| Redux | REST APIs | AWS |
+
+</div>
+
+### <div align="center">🎯 Current Focus</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-blue?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-green?style=for-the-badge&logo=azure-devops" />
+  <img src="https://img.shields.io/badge/Mastering-DevOps-red?style=for-the-badge&logo=docker" />
+</div>
+
+### <div align="center">⚡ Core Skills</div>
+
+<div align="center">
+  
+```mermaid
+mindmap
+  root((Anit))
+    Frontend
+      React
+      Next.js
+      UI/UX
+      Responsive Design
+    Backend
+      Node.js
+      Databases
+      API Design
+      Security
+    DevOps
+      Docker
+      CI/CD
+      AWS
+      Monitoring
+    Soft Skills
+      Team Leadership
+      Problem Solving
+      Communication
+      Agile
 ```
+
+</div>
 
 ## 🛠️ Tech Stack
 <div align="center">
