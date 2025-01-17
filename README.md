@@ -1,7 +1,7 @@
 # <div align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anit</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,17 +9,19 @@
 </div>
 
 ## 🚀 About Me
-```typescript
+```javascript
 const anit = {
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Express", "Django"],
-        databases: ["MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code"]
+    pronouns: "he/him",
+    about: "Full Stack Developer passionate about creating impactful web solutions",
+    experience: {
+        frontend: ["React", "Next.js", "TailwindCSS", "Material-UI"],
+        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+        cloud: ["AWS", "Vercel", "Netlify"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I love turning coffee into code! ☕️"
+    currentlyWorking: "On innovative web applications that solve real-world problems",
+    learning: ["System Design", "DevOps", "Cloud Architecture"],
+    askMeAbout: ["Web Dev", "Tech", "UI/UX", "Coffee ☕"],
+    funFact: "I debug with console.log and refuse to admit it! 🤫"
 };
 ```
 
@@ -61,5 +63,9 @@ const anit = {
 
 ---
 <div align="center">
-  <img src="https://github.com/anitcodes/anitcodes/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anitcodes/anitcodes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anitcodes/anitcodes/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anitcodes/anitcodes/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
